@@ -1,0 +1,29 @@
+{
+  "name": "lera-malagasy",
+  "version": "1.0.0",
+  "description": "The old way people from Madagascar used to tell the hour.",
+  "main": "index.js",
+  "scripts": {
+    "test": "cucumber-js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RaBalita/lera-malagasy.git"
+  },
+  "keywords": [
+    "Madagascar",
+    "Malagasy",
+    "Time",
+    "Day"
+  ],
+  "author": "RaBalita",
+  "license": "CC BY-NC-SA 4.0",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/RaBalita/lera-malagasy/issues"
+  },
+  "homepage": "https://github.com/RaBalita/lera-malagasy#readme",
+  "devDependencies": {
+    "@cucumber/cucumber": "^13.0.0"
+  }
+}
