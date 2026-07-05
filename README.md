@@ -32,6 +32,12 @@ const lera = require("./lera-malagasy.json");
 ## Complete file content
 
 ```js
+/* ********************************
+Author: Ra Balita
+Date: 2026-06-26
+Module: Lera Malagasy
+********************************* */
+
 {
   "00h00": {  "mg_MG": "MISASAKALINA",
               "en_EN": "Midnight.",
