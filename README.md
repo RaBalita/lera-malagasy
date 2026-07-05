@@ -9,6 +9,10 @@ View the live clock here: [https://rabalita.com/apps/lera-malagasy](https://raba
 
 Each Malagasy locution can also displays its English or French translation.
 
+<p align="center">
+    <img src="img/lera-malagasy-website-screenshot.jpg" alt="Image" width="430" height="310" />
+</p>
+
 ## Usage
 
 Import the JSON file into your project:
