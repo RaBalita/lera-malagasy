@@ -7,7 +7,7 @@ based on daily activities and natural events.
 
 View the live clock here: [https://rabalita.com/apps/lera-malagasy](https://rabalita.com/apps/lera-malagasy).
 
-Each Malagasy locution can also displays its English or French translation.
+Each Malagasy locution displays its English or French translation.
 
 <p align="center">
     <img src="img/lera-malagasy-website-screenshot.jpg" alt="Image" width="430" height="310" />
